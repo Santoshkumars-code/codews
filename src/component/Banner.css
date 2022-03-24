@@ -1,0 +1,22 @@
+.banner{
+    background-image: linear-gradient(to right,#6434eb, #a715d4);
+}
+.banner__header{
+    font-size: 70px;
+    text-align: left;
+    color: aliceblue;
+    font-weight: 200;
+    padding: 40px;
+    
+    
+
+}
+.banner__paragraph{
+    font-size: 22px;
+    text-align: left;
+    color: aliceblue;
+    font-weight: 200;
+    margin-bottom: 30px;
+    padding: 40px;
+
+}

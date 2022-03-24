@@ -1,0 +1,11 @@
+.navbar{
+    background-image: linear-gradient(to right,#201142, #a715d4);
+    
+}
+.collapse{
+    float: left;
+    margin-left: 40%;
+    flex-direction: row;
+    word-wrap: none;
+
+}
